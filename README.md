@@ -32,10 +32,11 @@ The primary objectives of this project are:
 - **Python** - Data processing & model training  
 - **Pandas & NumPy** - Data manipulation & preprocessing  
 - **Scikit-learn** - Machine learning models & evaluation  
-- **XGBoost** - Gradient boosting for fraud detection  
+- **XGBoost** - Gradient boosting for fraud detection
+- **Faker** - Synthetic invoice generation with anomalies  
 - **Matplotlib & Seaborn** - Data visualization  
 - **Decision Trees & Logistic Regression** - Implemented for fraud detection  
 - **Support Vector Machines (SVM) & Neural Networks** - Planned implementations  
 - **StandardScaler & LabelEncoder** - Feature preprocessing  
-- **Datetime** - Date parsing and manipulation  
+- **Datetime** - Date parsing and manipulation
 - **JSON Handling** - Parsing and converting invoice data  
