@@ -1,7 +1,7 @@
 # Fraud Detection in Invoices using Machine Learning  
 
 ## Overview  
-This project focuses on **detecting fraudulent invoices** using various **machine learning algorithms**. The goal is to develop an automated system that enhances **anti-money laundering (AML) and fraud detection** by identifying suspicious patterns in structured financial data.  
+Fraudulent invoices pose significant risks in B2B transactions, leading to financial losses and operational inefficiencies. This project aims to develop an automated **B2B fraud detection system** using **machine learning/deep learning techniques** to identify suspicious invoices based on structured financial data.
 
 ## Project Scope  
 
@@ -31,5 +31,3 @@ This project focuses on **detecting fraudulent invoices** using various **machin
 - **StandardScaler & LabelEncoder** - Feature preprocessing  
 - **Datetime** - Date parsing and manipulation  
 - **JSON Handling** - Parsing and converting invoice data 
-
-## Repository Structure  
